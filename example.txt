@@ -1,0 +1,5 @@
+Hello world
+This is a test file
+Go is a great programming language
+Concurrency patterns are powerful
+Pipeline pattern is useful
